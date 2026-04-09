@@ -204,6 +204,23 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)
+
+Universal CLI for AI agents — 756 commands across 167 sites (web, desktop, Electron apps). Self-repairing 20-line YAML adapters, auto-JSON output, ~80 tokens per call. TypeScript, Apache-2.0.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/olo-dot-io/Uni-CLI)
+- [npm](https://www.npmjs.com/package/@zenalexa/unicli)
+
+
+</details>
+
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
